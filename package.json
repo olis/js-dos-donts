@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "aeos",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "node-fetch": "^2.6.0"
+  }
 }
