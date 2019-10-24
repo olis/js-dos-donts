@@ -1,8 +1,8 @@
 var foo = "Foo";
 let bar = "Bar";
 
-console.log(window.foo);
-console.log(window.bar); // is never garbage collected
+console.log(window.foo); // is never garbage collected
+console.log(window.bar);
 
 var foo1 = "foo1";
 var foo1 = "foo2";
