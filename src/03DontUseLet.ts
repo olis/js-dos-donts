@@ -25,5 +25,6 @@ let cat = {
 
 // bird.bark();
 // bird.name = "Toni";
+// bird.bark();
 // bird = cat;
 // bird.bark();
