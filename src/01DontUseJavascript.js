@@ -1,7 +1,7 @@
 var a = [] + [];
-var b = {} + {};
 var c = {} + [];
 var d = [] + {};
+var b = {} + {};
 //console.log("a=" + a, "b=" + b, "c=" + c, "c=" + c);
 
 // var text = "abc";
